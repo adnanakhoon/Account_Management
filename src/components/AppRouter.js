@@ -13,7 +13,7 @@ const AppRouter = () => {
         <Route path="/register" element={<Register />} />
         <Route path="/account" element={<Account />} />
       </Routes>
-    </Router>
+    </Router> 
   );
 };
 

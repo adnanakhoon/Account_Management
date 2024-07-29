@@ -82,7 +82,7 @@ const Login = () => {
           </div>
         </form>
         <div className="flex justify-center">
-          <button
+           <button
             onClick={() => navigate('/register')}
             className="mt-4 text-indigo-600 hover:text-indigo-900"
           >
