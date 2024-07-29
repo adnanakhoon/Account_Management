@@ -90,11 +90,11 @@ const Account = () => {
           <button
             onClick={handleLogout}
             className="text-indigo-600 hover:text-indigo-900"
-          >
+          > 
             Logout
           </button>
         </div>
-      </div>
+      </div> 
     </div> 
   );
 };

@@ -6,7 +6,7 @@ import Register from './Register';
 import Account from './Account';
 
 const AppRouter = () => {
-  return (
+  return ( 
     <Router>
       <Routes>
         <Route path="/" element={<Login />} />

@@ -59,7 +59,7 @@ const Register = () => {
                 placeholder="Password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
-              />
+              /> 
             </div>
           </div>
           <div>
